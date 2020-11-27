@@ -1,0 +1,72 @@
+/* CSS reset */
+*, *:before, *:after { 
+    margin:0;
+    padding:0;
+    font-family: Arial,sans-serif;
+  }
+
+  body {
+    background: #949499;
+  }
+
+.content1{
+    width: 100%;  
+    margin-top: 20px;
+    position: relative;
+    text-align: center;
+    font-size: 30px;
+}
+
+.content2{
+    width: 90%;  
+    margin-top: 40px;  
+    margin-left: 5%;
+    position: relative;
+    text-align: center;
+}
+
+#main{
+    position: absolute;
+    top: 0px;
+    width: 88%;   
+    padding: 18px 6% 30px 6%;
+    margin: 0px 0px 35px 0;
+    background: #f7f7f7;
+    border: 2px solid rgba(0, 27, 31, 0.8);
+}
+
+/* -----
+SVG Icons - svgicons.sparkk.fr
+----- */
+
+.svg-icon {
+  width: 1em;
+  height: 1em;
+}
+
+.svg-icon path,
+.svg-icon polygon,
+.svg-icon rect {
+  fill: #949499;
+}
+
+.svg-icon circle {
+  stroke: #4691f6;
+  stroke-width: 1;
+}
+
+.svg-icon1 {
+  width: 1em;
+  height: 1em;
+}
+
+.svg-icon1 path,
+.svg-icon1 polygon,
+.svg-icon1 rect {
+  fill: #000000;
+}
+
+.svg-icon1 circle {
+  stroke: #4691f6;
+  stroke-width: 1;
+}
