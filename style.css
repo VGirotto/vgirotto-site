@@ -4,10 +4,13 @@
     padding:0;
     font-family: Arial,sans-serif;
   }
+   
 
   body {
     background: #949499;
   }
+
+
 
 .content1{
     width: 100%;  
@@ -33,7 +36,43 @@
     margin: 0px 0px 35px 0;
     background: #f7f7f7;
     border: 2px solid rgba(0, 27, 31, 0.8);
-}
+  }
+
+  /* Style the navigation bar */
+.navbar {
+    width: 100%;
+    background-color: #555;
+    overflow: auto;
+  }
+  
+  /* Navbar links */
+  .navbar a {
+    float: left;
+    text-align: center;
+    padding: 12px;
+    color: white;
+    text-decoration: none;
+    font-size: 17px;
+  }
+  
+  /* Navbar links on mouse-over */
+  .navbar a:hover {
+    background-color: #000;
+  }
+  
+  /* Current/active navbar link */
+  .active {
+    background-color: #1c1586;
+  }
+  
+  /* Add responsiveness - will automatically display the navbar vertically instead of horizontally on screens less than 500 pixels */
+  @media screen and (max-width: 500px) {
+    .navbar a {
+      float: none;
+      display: block;
+    }
+  }
+
 
 /* -----
 SVG Icons - svgicons.sparkk.fr
