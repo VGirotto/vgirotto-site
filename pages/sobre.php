@@ -19,6 +19,12 @@
                     <a href="drop_items.php">Items</a>
                 </div>
             </div>
+            <div class="dropdown">
+                <button class="dropbtn">Python</button>
+                <div class="dropdown-content">
+                    <a href="python1.php">Estudo 1</a>
+                </div>
+            </div>
             <a class="active" href="sobre.php"> Sobre</a>
         </div>
     </div> 
@@ -43,7 +49,7 @@
                 <p><h3> Irei utilizar esse site para postar informações sobre alguns jogos e projetos que fiz nos<br />
                 últimos anos. Pretendo usar um pouco como documentação e um pouco como repositório.</h3></p><br />
                 
-            </div>   
+            </div> 
         </div>
     
     </div> 

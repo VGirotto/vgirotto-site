@@ -19,6 +19,12 @@
                     <a href="pages/drop_items.php">Items</a>
                 </div>
             </div>
+            <div class="dropdown">
+                <button class="dropbtn">Python</button>
+                <div class="dropdown-content">
+                    <a href="pages/python1.php">Estudo 1</a>
+                </div>
+            </div>
             <a href="pages/sobre.php"> Sobre</a>
         </div>
     </div> 
