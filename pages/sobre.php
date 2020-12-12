@@ -3,16 +3,23 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Vinicius Girotto - Sobre</title>
-  <link rel="stylesheet" type="text/css" href="style.css" />
+  <link rel="stylesheet" type="text/css" href="../styles/style.css" />
 
 </head>
 <body>
 
     <div class="container" >
         <div class="navbar">
-            <a href="home"> Início</a>
-            <a href="tarefa2"> Tarefa 2</a>
-            <a class="active" href="sobre"> Sobre</a>
+            <a href="../index.php"> Início</a>
+            <div class="dropdown">
+                <button class="dropbtn">Drop RPG</button>
+                <div class="dropdown-content">
+                    <a href="droprpg.php">Game</a>
+                    <a href="drop_enemies.php">Enemies</a>
+                    <a href="#">Items</a>
+                </div>
+            </div>
+            <a class="active" href="sobre.php"> Sobre</a>
         </div>
     </div> 
 
