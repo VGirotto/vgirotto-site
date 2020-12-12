@@ -38,7 +38,7 @@
             <iframe src="https://itch.io/embed/768042" height="167" width="600" frameborder="0"><a href="https://vgirotto.itch.io/drop-rpg">Drop RPG by VGirotto</a></iframe> </p>
             <br />
             <p class="left">
-            Drop RPG is an <b>idle RPG game</b> for you test your <b>luck</b> and your <b>strategy</b>.
+            Drop RPG is an <b>idle RPG game</b> for you to test your <b>luck</b> and your <b>strategy</b>.
             <br /><br />
             <b>Features:</b>
             <br /><br />
