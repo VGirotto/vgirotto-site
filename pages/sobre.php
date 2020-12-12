@@ -16,7 +16,7 @@
                 <div class="dropdown-content">
                     <a href="droprpg.php">Game</a>
                     <a href="drop_enemies.php">Enemies</a>
-                    <a href="#">Items</a>
+                    <a href="drop_items.php">Items</a>
                 </div>
             </div>
             <a class="active" href="sobre.php"> Sobre</a>
@@ -40,11 +40,8 @@
                 <p><h3> Esse é um site desenvolvido para a disciplina de </h3></p>
                 <p><h3> Projetos em Engenharia da Computação IV: Desenvolvimento Web  </h3></p>
                 <p><h3> Discente: Vinícius Victor Girotto  </h3></p> <br /><br /><br />
-                <p><h3> Esse sobre foi feito para prover informações quanto ao conteúdo do site e de seu autor.  <br />
-                Mais informações serão adicionadas posteriormente.</h3></p><br /><br />
-                <p><h3> Tarefa 1 <svg class="svg-icon" viewBox="0 0 20 20">
-                        <path fill="none" d="M7.629,14.566c0.125,0.125,0.291,0.188,0.456,0.188c0.164,0,0.329-0.062,0.456-0.188l8.219-8.221c0.252-0.252,0.252-0.659,0-0.911c-0.252-0.252-0.659-0.252-0.911,0l-7.764,7.763L4.152,9.267c-0.252-0.251-0.66-0.251-0.911,0c-0.252,0.252-0.252,0.66,0,0.911L7.629,14.566z"></path>
-                    </svg></h3></p> 
+                <p><h3> Irei utilizar esse site para postar informações sobre alguns jogos e projetos que fiz nos<br />
+                últimos anos. Pretendo usar um pouco como documentação e um pouco como repositório.</h3></p><br />
                 
             </div>   
         </div>

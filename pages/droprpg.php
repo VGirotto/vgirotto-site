@@ -16,7 +16,7 @@
                 <div class="dropdown-content">
                     <a class="active" href="droprpg.php">Game</a>
                     <a href="drop_enemies.php">Enemies</a>
-                    <a href="#">Items</a>
+                    <a href="drop_items.php">Items</a>
                 </div>
             </div>
             <a href="sobre.php"> Sobre</a>

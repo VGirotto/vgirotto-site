@@ -21,6 +21,7 @@ h2 {
 table, th, td {
     border: 1px solid black;
     border-collapse: collapse;
+    line-height: 20px;
   }
 
 .left{
@@ -43,7 +44,7 @@ table, th, td {
 
 .content2{
     width: 90%;  
-    margin-top: 40px;  
+    margin-top: 40px;
     margin-left: 5%;
     position: relative;
     /* text-align: center; */
