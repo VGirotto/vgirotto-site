@@ -26,6 +26,7 @@
                 </div>
             </div>
             <a href="pages/sobre.php"> Sobre</a>
+            <a href="pages/contato.php" style="float: right"> Contato</a>
         </div>
     </div> 
 

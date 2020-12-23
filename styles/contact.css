@@ -1,0 +1,161 @@
+/* CSS reset */
+*, *:before, *:after { 
+    margin:0;
+    padding:0;
+    font-family: Arial,sans-serif;
+  }
+   
+
+  body {
+    background: #949499;
+  }
+
+.content1{
+    width: 100%;  
+    margin-top: 20px;
+    position: relative;
+    text-align: center;
+    font-size: 30px;
+}
+
+.content2{
+    width: 90%;  
+    margin-top: 40px;
+    margin-left: 5%;
+    position: absolute;
+    text-align: center;
+}
+
+#main{
+    position: absolute;
+    top: 0px;
+    width: 88%;   
+    padding: 18px 6% 30px 6%;
+    margin: 0px 0px 35px 0px;
+    background: #f7f7f7;
+    border: 2px solid rgba(0, 27, 31, 0.8);
+  }
+
+  /* Style the navigation bar */
+.navbar {
+    width: 100%;
+    background-color: #555;
+    overflow: auto;
+  }
+  
+  /* Navbar links */
+  .navbar a {
+    float: left;
+    text-align: center;
+    padding: 12px;
+    color: white;
+    text-decoration: none;
+    font-size: 17px;
+  }
+  
+  /* The dropdown container */
+  .dropdown {
+    float: left;
+    overflow: hidden;
+  }
+  
+  /* Dropdown button */
+  .dropdown .dropbtn {
+    font-size: 17px;
+    border: none;
+    outline: none;
+    color: white;
+    padding: 12px;
+    background-color: inherit;
+    font-family: inherit; /* Important for vertical align on mobile phones */
+    margin: 0; /* Important for vertical align on mobile phones */
+  }
+  
+  /* Add a red background color to navbar links on hover */
+  .navbar a:hover, .dropdown:hover .dropbtn {
+    background-color: rgb(0, 0, 0);
+  }
+  
+  /* Dropdown content (hidden by default) */
+  .dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #555;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+  }
+  
+  /* Links inside the dropdown */
+  .dropdown-content a {
+    float: none;
+    color: white;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+    text-align: left;
+  }
+  
+  /* Add a grey background color to dropdown links on hover */
+  .dropdown-content a:hover {
+    background-color: black;
+  }
+  
+  /* Show the dropdown menu on hover */
+  .dropdown:hover .dropdown-content {
+    display: block;
+  }
+  
+  /* Current/active navbar link */
+  .active {
+    background-color: #1c1586;
+  }
+  
+  /* Add responsiveness - will automatically display the navbar vertically instead of horizontally on screens less than 500 pixels */
+  @media screen and (max-width: 500px) {
+    .navbar a {
+      float: none;
+      display: block;
+    }
+  }
+
+
+/* -----
+SVG Icons - svgicons.sparkk.fr
+----- */
+
+.svg-icon {
+  width: 1em;
+  height: 1em;
+}
+
+.svg-icon path,
+.svg-icon polygon,
+.svg-icon rect {
+  fill: #949499;
+}
+
+.svg-icon circle {
+  stroke: #4691f6;
+  stroke-width: 1;
+}
+
+.svg-icon1 {
+  width: 1em;
+  height: 1em;
+}
+
+.svg-icon1 path,
+.svg-icon1 polygon,
+.svg-icon1 rect {
+  fill: #000000;
+}
+
+.svg-icon1 circle {
+  stroke: #4691f6;
+  stroke-width: 1;
+}
+
+p {
+    margin-bottom: 5px;
+}
