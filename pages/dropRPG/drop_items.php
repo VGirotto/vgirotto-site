@@ -3,14 +3,14 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Vinicius Girotto - Drop RPG</title>
-  <link rel="stylesheet" type="text/css" href="../styles/gameStyle.css" />
+  <link rel="stylesheet" type="text/css" href="../../styles/gameStyle.css" />
 
 </head>
 <body>
 
     <div class="container" >
         <div class="navbar">
-            <a href="../index.php"> Início</a>
+            <a href="../../index.php"> Início</a>
             <div class="dropdown">
                 <button class="dropbtn">Drop RPG</button>
                 <div class="dropdown-content">
@@ -22,11 +22,21 @@
             <div class="dropdown">
                 <button class="dropbtn">Python</button>
                 <div class="dropdown-content">
-                    <a href="python1.php">Estudo 1</a>
+                    <a href="../python/python1.php">Estudo 1</a>
                 </div>
             </div>
-            <a href="sobre.php"> Sobre</a>
-            <a href="contato.php" style="float: right"> Contato</a>
+            <div class="dropdown">
+                <button class="dropbtn">Exercícios PHP</button>
+                <div class="dropdown-content">
+                    <a href="../phpExercises/exerc1.php">Exercício 1</a>
+                    <a href="../phpExercises/exerc2.php">Exercício 2</a>
+                    <a href="../phpExercises/exerc3.php">Exercício 3</a>
+                    <a href="../phpExercises/exerc4.php">Exercício 4</a>
+                    <a href="../phpExercises/exerc5.php">Exercício 5</a>
+                </div>
+            </div>
+            <a href="../sobre.php"> Sobre</a>
+            <a href="../contato.php" style="float: right"> Contato</a>
         </div>
     </div> 
 

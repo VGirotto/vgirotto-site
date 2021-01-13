@@ -14,15 +14,25 @@
             <div class="dropdown">
                 <button class="dropbtn">Drop RPG</button>
                 <div class="dropdown-content">
-                    <a href="pages/droprpg.php">Game</a>
-                    <a href="pages/drop_enemies.php">Enemies</a>
-                    <a href="pages/drop_items.php">Items</a>
+                    <a href="pages/dropRPG/droprpg.php">Game</a>
+                    <a href="pages/dropRPG/drop_enemies.php">Enemies</a>
+                    <a href="pages/dropRPG/drop_items.php">Items</a>
                 </div>
             </div>
             <div class="dropdown">
                 <button class="dropbtn">Python</button>
                 <div class="dropdown-content">
-                    <a href="pages/python1.php">Estudo 1</a>
+                    <a href="pages/python/python1.php">Estudo 1</a>
+                </div>
+            </div>
+            <div class="dropdown">
+                <button class="dropbtn">Exercícios PHP</button>
+                <div class="dropdown-content">
+                    <a href="pages/phpExercises/exerc1.php">Exercício 1</a>
+                    <a href="pages/phpExercises/exerc2.php">Exercício 2</a>
+                    <a href="pages/phpExercises/exerc3.php">Exercício 3</a>
+                    <a href="pages/phpExercises/exerc4.php">Exercício 4</a>
+                    <a href="pages/phpExercises/exerc5.php">Exercício 5</a>
                 </div>
             </div>
             <a href="pages/sobre.php"> Sobre</a>
