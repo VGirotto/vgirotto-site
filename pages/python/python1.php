@@ -55,7 +55,7 @@
                     Basicamente, é gerado aleatoriamente um mapa de tamanho 20x40, e o código <br />
                     verifica se existe algum caminho que leve do *(asterisco) até o $(cifrão). <br />
                     Caso exista, o código avisa que existe e então printa o mapa com um caminho <br />
-                    possível, e não necessariamente o melhor (talvez em um upgrade futuro).<br />  
+                    possível, e não <a href="easteregg.php" style="text-decoration:none; color:black;">necessariamente</a> o melhor (talvez em um upgrade futuro).<br />  
                     Recarregue a página para ver outros resultados.<br />   </p>
                     <br />
             <p> Legenda: <br />

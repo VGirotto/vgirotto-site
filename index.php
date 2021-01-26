@@ -55,7 +55,7 @@
                 <p><h3>Nesse site irei postar alguns jogos e projetos que fiz nos últimos.  </h3></p>
                 <br />
                 <br />
-                <a href="pages/droprpg.php"><img src="resources/ss1.png" title="Clique aqui para acessar a página do jogo" alt="Drop RPG logo" width="512" height="400" show="olá"></a>
+                <a href="pages/dropRPG/droprpg.php"><img src="resources/ss1.png" title="Clique aqui para acessar a página do jogo" alt="Drop RPG logo" width="512" height="400" show="olá"></a>
                 
             </div>   
         </div>
