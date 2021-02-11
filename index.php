@@ -33,6 +33,7 @@
                     <a href="pages/phpExercises/exerc3.php">Exercício 3</a>
                     <a href="pages/phpExercises/exerc4.php">Exercício 4</a>
                     <a href="pages/phpExercises/exerc5.php">Exercício 5</a>
+                    <a href="pages/phpExercises/dbOperations.php">Operações BD</a>
                 </div>
             </div>
             <a href="pages/sobre.php"> Sobre</a>
